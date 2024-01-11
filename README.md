@@ -40,13 +40,13 @@ This assumes you have Gradle and Java installed
 
 Method #1: Class Path
 
-Ensure working directory is in the root project folder: /ToDoListApplication
+Ensure working directory is in the root project folder: /ToDo-List-Application
 Type 'gradle build' to start the build process
 Once build completes successfully, Enter this command 'java -cp build/classes/java/main ui.TextUI'
 
 Method #2: Jar file
 
-Ensure working directory is in the root project folder: /ToDoListApplication
+Ensure working directory is in the root project folder: /ToDo-List-Application
 Enter this command: 'java -jar build/libs/TODO.jar'
 
 
